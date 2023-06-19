@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + TailwindCSS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+#H HomePage
+![image](https://github.com/Lienkulet/TastyBites/assets/104018505/415babc4-7e19-4eaa-a4ba-72577c4d8186)
+![image](https://github.com/Lienkulet/TastyBites/assets/104018505/b9171319-3f50-41ef-9cdc-611aa630f8ee)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Single Recipe Page
+![image](https://github.com/Lienkulet/TastyBites/assets/104018505/707a7b5c-b43c-41bc-a366-61bc76aaa592)
